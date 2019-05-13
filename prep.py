@@ -1,7 +1,7 @@
 import numpy as np
 from sigpyproc.Readers import FilReader
 import matplotlib.pyplot as plt
-
+import os
 #### direct dedispersion file creator
 
 __author__ ="Hao Qiu"
